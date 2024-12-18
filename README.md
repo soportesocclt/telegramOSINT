@@ -11,7 +11,7 @@ funcionalidades
 Paso 1:
 Clona este repositorio
 
-git clone https://github.com/
+git clone https//github.com/soportesocclt/telegramOSINT.git
 
 Paso 2:
 Accede al directorio del proyecto.
